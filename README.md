@@ -1,23 +1,21 @@
 <h1>Hi there 👋, I'm Imam Abubakar</h1>
 
 <h2>Full Stack Web Developer</h2>
- I'm a Full Stack Web Developer with over 5 years experience working with various web technologies and several web projects. I specialize in PHP and a professional in web design, color mixing and responsiveness. I also build web applications and dynamic web pages.
+I am a Blockchain Developer, interested in developing solutions in DeFi, NFTs and Web 3.0 on the Ethereum Ecosystem.
+
+I recently transitioned from being a Full Stack Web Developer with over 5 years of experience, a space where i have designed and developed multiple websites, web apps and management systems.
  
- <h2>TECHNICAL CAPABILITIES</h2>
- <h2>Operating system</h2>
- -Windows<br/>
- -MacOS
- 
- <h2>Front-End</h2>
- -HTML5/CSS3/JavaScript(ES6)<br/>
- -BootStrap 5<br/>
- -VueJS<br/>
- -TensorflowJS<br/>
- -GSAP
- 
- <h2>Back-End</h2>
- -PHP/Laravel<br/>
- -MySQL/PostgreSQL/Firebase<br/>
+ <h2>TECHNICAL PROFICIENCIES</h2>
+•Language: JavaScript, Solidity, PHP
+
+•Markup/Design: HTML5, CSS3, Bootstrap, Tailwind CSS, 
+
+•Database: MySQL, Sanity.io
+
+•Framework: VueJS, react.js, Next.js, Hardhat, Remix, Laravel
+
+•Test Server: Netlify, Vercel, Heroku
+
  
 <h3>
   Visit my Portfolio <a href="https://imamabubakar.netlify.app">here</a>
