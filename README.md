@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I'm Imam Abubakar</h1>
 
-<h2>Full Stack Web Developer</h2>
+<h2>Blockchain Developer</h2>
 I am a Blockchain Developer, interested in developing solutions in DeFi, NFTs and Web 3.0 on the Ethereum Ecosystem.
 
 I recently transitioned from being a Full Stack Web Developer with over 5 years of experience, a space where i have designed and developed multiple websites, web apps and management systems.
