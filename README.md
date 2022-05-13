@@ -12,9 +12,9 @@ I recently transitioned from being a Full Stack Web Developer with over 5 years 
 
 •Database: MySQL, Sanity.io
 
-•Framework: VueJS, react.js, Next.js, Hardhat, Remix, Laravel
+•Technologies: Vue, React, NextJS, Hardhat, Remix IDE, Laravel
 
-•Test Server: Netlify, Vercel, Heroku
+•Deployment: Netlify, Vercel
 
  
 <h3>
