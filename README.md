@@ -10,9 +10,9 @@ I recently transitioned from being a Full Stack Web Developer with over 5 years 
 
 •Markup/Design: HTML5, CSS3, Bootstrap, Tailwind CSS, 
 
-•Database: MySQL, Sanity.io
+•Database/CMS: MySQL, SanityCMS, GraphCMS, MongoDB
 
-•Technologies: Vue, React, NextJS, Hardhat, Remix IDE, Laravel
+•Technologies: React.js, Next.js, Node.js Hardhat, Remix IDE, Laravel
 
 •Deployment: Netlify, Vercel
 
