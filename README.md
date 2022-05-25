@@ -17,6 +17,3 @@ I recently transitioned from being a Full Stack Web Developer with over 5 years 
 •Deployment: Netlify, Vercel
 
  
-<h3>
-  Visit my Portfolio <a href="https://imamabubakar.netlify.app">here</a>
-  </h3>
