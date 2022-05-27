@@ -1,19 +1,31 @@
 <h1>Hi there 👋, I'm Imam Abubakar</h1>
 
-<h2>Blockchain Developer</h2>
-I am a Blockchain Developer, interested in developing solutions in DeFi, NFTs and Web 3.0 on the Ethereum Ecosystem.
+### About Me
 
-I recently transitioned from being a Full Stack Web Developer with over 5 years of experience, a space where i have designed and developed multiple websites, web apps and management systems.
+I am a Blockchain Developer, creating solutions in DeFi, DAO, NFT and Web 3.0 applications on Ethereum and Polygon Ecosystem.
+
+I transitioned from being a Full Stack Web Developer with over 5 years of experience, a space where I have designed and developed multiple websites, web apps and management systems.
  
- <h2>TECHNICAL PROFICIENCIES</h2>
-•Language: JavaScript, Solidity, PHP
+### Must Know
+🌱 I develop highly secure crosschain applications.
 
-•Markup/Design: HTML5, CSS3, Bootstrap, Tailwind CSS, 
+🌱 I develop DAO, Defi / NFT projects and web 3.0 applications.
 
-•Database/CMS: MySQL, SanityCMS, GraphCMS, MongoDB
+🌱 I develop interactive Front-end / Interfaces for your web and mobile applications.
 
-•Technologies: React.js, Next.js, Node.js Hardhat, Remix IDE, Laravel
+🌱 I building responsive interfaces using React.js / React Native / Next (Bootstrap / Tailwind CSS for styling).
 
-•Deployment: Netlify, Vercel
+🌱 I develop back-end applications in Node.js, Express.js / PHP.
 
+🌱 I integrate APIs and CMS in my projects (Based on request).
+
+🌱 Integration of third party services such as Vercel/ Netlify/ Moralis / AWS / Digital Ocean.
+
+🌱 I’m currently learning Tensorflow.js for a personal project.
+
+🌱 I spend time doing lots of research work and documentation.
+
+### Want to Connect?
+
+Reach me via <a href="https://twitter.com/abubakardev">Twitter</a> or <a href="https://www.linkedin.com/in/imam-abubakar-olusola-3b246a217/">Linkedin</a>
  
