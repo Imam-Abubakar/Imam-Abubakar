@@ -13,7 +13,7 @@ I transitioned from being a Full Stack Web Developer with over 5 years of experi
 
 🌱 I develop interactive Front-end / Interfaces for your web and mobile applications.
 
-🌱 I building responsive interfaces using React.js / React Native / Next (Bootstrap / Tailwind CSS for styling).
+🌱 I build responsive interfaces using React.js / React Native / Next (Bootstrap / Tailwind CSS for styling).
 
 🌱 I develop back-end applications in Node.js, Express.js / PHP.
 
@@ -27,5 +27,5 @@ I transitioned from being a Full Stack Web Developer with over 5 years of experi
 
 ### Want to Connect?
 
-Reach me via <a href="https://twitter.com/abubakardev">Twitter</a> or <a href="https://www.linkedin.com/in/imam-abubakar-olusola-3b246a217/">Linkedin</a>
+Reach me via <a target="_blank" href="https://twitter.com/abubakardev">Twitter</a> or <a target="_blank" href="https://www.linkedin.com/in/imam-abubakar-olusola-3b246a217/">Linkedin</a>
  
