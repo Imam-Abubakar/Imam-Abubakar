@@ -2,9 +2,9 @@
 
 <h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Senior+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
-> My name is Abubakar and I am a senior full stack developer with over 6 years of experience in software development using industry-level languages and frameworks, recently focusing on blockchain and MERN Stack.
+> My name is Abubakar and I am a full stack developer with over 6 years of experience in software development using industry-level languages and frameworks, recently focusing on blockchain and MERN Stack.
 > I have worked on several projects in various industries including marketing, education, e-commerce, real estate, and blockchain.
 
 ## Core Stack
