@@ -2,18 +2,18 @@
 
 <h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Software+Developer)](https://git.io/typing-svg)
 
-> My name is Abubakar and I am a full stack developer with over 6 years of experience in software development using industry-level languages and frameworks, recently focusing on blockchain and MERN Stack.
+> My name is Abubakar and I am a Full Stack Developer with over 6 years of experience in software development using industry-level languages and frameworks, recently focusing on blockchain and MERN Stack.
 > I have worked on several projects in various industries including marketing, education, e-commerce, real estate, and blockchain.
 
 ## Core Stack
 - 🔸 <b>Languages</b> : JavaScript, C++, Python, HTML, PHP, Solidity
 - 🔸 <b>Frontend</b> : React, Next.js, SCSS, Bootstrap, Tailwind CSS, Material-UI
-- 🔸 <b>Backend</b> : Node.js/Express.js, PHP/Laravel
+- 🔸 <b>Backend</b> : Node(Express.js), PHP(Laravel)
 - 🔸 <b>CMS</b> : Sanity, Hygraph
-- 🛢 <b>Database</b> : MongoDB, MySQL, PostgreSQL, FireBase
-- 💰 <b>Blockchain</b> : Tokenomics, NFTs, Smart Contract(Solidity), Ethers.js, Metaverse/GameFi, Real Estate, Security & Auditing<br>
+- 🛢 <b>Database</b> : MongoDB, MySQL, PostgreSQL, Firebase
+- 💰 <b>Blockchain</b> : Tokenomics, NFTs, Smart Contracts(Solidity), Ethers.js, Metaverse/GameFi, Real Estate, Security & Auditing<br>
 - 🔸 <b>Deployment</b> : Google, AWS, Github, Heroku, Vercel, Netlify, VPS
 
 ## 😇 My Github Stats:
