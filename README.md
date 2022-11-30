@@ -23,7 +23,12 @@
 <a href="https://github.com/Imam-Abubakar/Imam-Abubakar">
   <img alt="Imam Abubakar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Imam-Abubakar&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
 </a>
-<br><br><br>
+<br>
+
+### Coding Time(Oct '22 - present)
+
+[![wakatime](https://wakatime.com/badge/user/7764c852-4772-48fb-8346-c61e1fd7eb38.svg)](https://wakatime.com/@7764c852-4772-48fb-8346-c61e1fd7eb38)
+
 
 ### 🔗 Social Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imam-abubakar-olusola-3b246a217)
