@@ -8,10 +8,6 @@
 - 💻 Working on my startup
 - 🌱 Learning to become better everyday
 
-#### (Q4 2022)
-[![wakatime](https://wakatime.com/badge/user/7764c852-4772-48fb-8346-c61e1fd7eb38.svg)](https://wakatime.com/@7764c852-4772-48fb-8346-c61e1fd7eb38)
-
-
 #### Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imam-abubakar-olusola-3b246a217)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abubakardev)
