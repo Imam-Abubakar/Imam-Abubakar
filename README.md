@@ -3,7 +3,6 @@
 > I'm Abubakar, software developer with nearly 7 years experience using industry-level languages and frameworks having worked in various industries including marketing, fintech, education, e-commerce, real estate, and blockchain.
 
 
-#### Tech Stack
 - 🔭 Currently shipping MERN Stack and Blockchain Applications
 - 💻 Working on my startup
 - 🌱 Learning to become better everyday
