@@ -1,16 +1,11 @@
-Imam Abubakar is a full stack developer with several years of experience in software development using industry-level languages and frameworks, currently focusing on blockchain technology and MERN Stack web development. He has worked on several projects in various industries including marketing, education, e-commerce, real estate, and blockchain.
+# 👋 Hey, I'm Imam Abubakar!
+I'm a full-stack developer with a focus on blockchain technology and MERN Stack web development. I've worked on projects in marketing, education, e-commerce, real estate, and blockchain industries.
 
-With experience working with the JAM, LAMP, and MERN stacks, Imam has advanced level mastery of the majority of the languages, tools, and technologies used, and is proficient in working as a frontend and backend developer.
+🔧 Main Tech Stack: JavaScript, Solidity, React(Next.js), Node.js, Express, MongoDB, PostgreSQL
+🎨 Besides coding, I enjoy photography, design, and content creation.
+🌱 I love sharing knowledge through meetups, lectures, and writing articles.
 
-Imam is also a multi-talented individual who enjoys expressing his creativity in various forms. As a content creator, still-life photographer, and graphics designer, he has developed a keen eye for detail and a deep understanding of design principles.
-
-In addition to his technical skills, Imam is passionate about sharing his knowledge and expertise with the wider community. He is actively involved in organizing and participating in meetups, lectures, and training sessions, both virtually and in-person.
-
-In his spare time, Imam enjoys writing articles where he shares his knowledge and insights on various technical topics, and occasionally contributes to open source projects. With his diverse skill set and passion for sharing knowledge, Imam is a valuable asset to any team or project.
-
-
-
-
+[![wakatime](https://wakatime.com/badge/user/7764c852-4772-48fb-8346-c61e1fd7eb38.svg)](https://wakatime.com/@7764c852-4772-48fb-8346-c61e1fd7eb38)
 
 #### Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imam-abubakar-olusola-3b246a217)
