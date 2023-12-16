@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Imam Abubakar!
-I'm a full-stack developer with a focus on blockchain technology and MERN Stack web development. I've worked on projects in marketing, education, e-commerce, real estate, and blockchain industries.
+I'm a software developer based in the vibrant city of Doha, Qatar. With nearly 7 years of professional experience working with various technologies for full stack web, game and mobile development, I strive to build solutions that helps individuals, businesses and companies grow. Let's collaborate and bring your ideas to life. I've worked on projects in marketing, education, e-commerce, real estate, and blockchain industries.
 
 🔧 Main Tech Stack: JavaScript, Solidity, React(Next.js), Node.js, Express, MongoDB, PostgreSQL
 🎨 Besides coding, I enjoy photography, design, and content creation.
